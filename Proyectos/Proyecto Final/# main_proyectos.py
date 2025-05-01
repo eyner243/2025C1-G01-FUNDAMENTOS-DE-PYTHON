@@ -1,3 +1,8 @@
+#Eyner Serrano Soza
+#Version: 1.1
+#Created on: 2025-26-04
+
+
 import csv, os, matplotlib.pyplot as plt, pandas as pd
 
 def limpiar_pantalla():
