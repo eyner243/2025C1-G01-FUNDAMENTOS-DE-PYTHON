@@ -1,0 +1,77 @@
+nombre,cantidad,fecha,pais,estatus,agente
+Eyner,3500.0,2025-04-27,Costa Rica,reconciled,CR004
+Andrea,5604.2,2025-04-24,Nicaragua,reconciled,MX002
+Andrea,3970.85,2025-04-03,Honduras,reconciled,HN005
+Andrea,5169.83,2025-04-11,El Salvador,reconciled,SV001
+Fernanda,5964.79,2025-04-14,Costa Rica,reconciled,HN005
+Luc√≠a,5106.47,2025-04-14,Nicaragua,unreconciled,SV001
+Sof√≠a,3484.51,2025-04-06,Panam√°,unreconciled,CR009
+Pedro,5332.71,2025-04-09,Nicaragua,reconciled,GT003
+Juan,4485.53,2025-04-28,Nicaragua,reconciled,MX002
+Sof√≠a,5905.85,2025-04-28,Nicaragua,reconciled,GT003
+Luc√≠a,2369.6,2025-04-10,M√©xico,reconciled,NI006
+Eyner,4392.79,2025-04-29,Honduras,reconciled,SV001
+Luc√≠a,3640.08,2025-04-27,M√©xico,unreconciled,PA007
+Andrea,4740.5,2025-04-11,Guatemala,reconciled,CR009
+Juan,4432.7,2025-04-22,M√©xico,reconciled,GT010
+Pedro,4951.01,2025-04-19,Honduras,reconciled,NI006
+Pedro,5272.95,2025-04-26,Panam√°,unreconciled,SV001
+Mar√≠a,2171.53,2025-04-05,El Salvador,reconciled,GT010
+Eyner,5997.05,2025-04-18,Panam√°,unreconciled,GT003
+Sof√≠a,4843.65,2025-04-26,Nicaragua,unreconciled,MX008
+Luc√≠a,4373.89,2025-04-01,Honduras,reconciled,PA007
+Mar√≠a,2542.33,2025-04-22,Honduras,reconciled,GT010
+Luc√≠a,5874.3,2025-04-23,M√©xico,unreconciled,CR004
+Juan,3829.91,2025-04-20,Costa Rica,unreconciled,GT010
+Pedro,2617.52,2025-04-12,Costa Rica,unreconciled,CR009
+Luc√≠a,5981.1,2025-04-04,M√©xico,reconciled,NI006
+Luc√≠a,3267.75,2025-04-14,El Salvador,reconciled,PA007
+Luis,3660.23,2025-04-24,Guatemala,unreconciled,GT003
+Juan,3116.36,2025-04-07,M√©xico,unreconciled,CR004
+Eyner,5921.55,2025-04-21,Honduras,reconciled,MX002
+Juan,2642.02,2025-04-04,Nicaragua,unreconciled,GT010
+Luis,3477.74,2025-04-19,M√©xico,reconciled,MX002
+Pedro,2813.87,2025-04-25,Guatemala,reconciled,CR009
+Andrea,3605.15,2025-04-05,Honduras,reconciled,SV001
+Fernanda,2580.74,2025-04-02,Honduras,unreconciled,MX002
+Sof√≠a,2972.67,2025-04-19,El Salvador,reconciled,CR004
+Sof√≠a,2424.49,2025-04-01,Nicaragua,unreconciled,MX008
+Juan,3307.49,2025-04-08,Guatemala,reconciled,MX002
+Eyner,2252.64,2025-04-27,Nicaragua,unreconciled,NI006
+Eyner,4987.49,2025-04-23,Honduras,reconciled,CR009
+Sof√≠a,3080.72,2025-04-01,El Salvador,unreconciled,HN005
+Juan,5571.9,2025-04-23,El Salvador,unreconciled,GT010
+Fernanda,2980.07,2025-04-15,El Salvador,reconciled,MX008
+Mar√≠a,3159.3,2025-04-09,M√©xico,reconciled,CR009
+Mar√≠a,5710.85,2025-04-29,Nicaragua,reconciled,PA007
+Luc√≠a,5292.13,2025-04-18,El Salvador,reconciled,GT003
+Carlos,3873.24,2025-04-25,Honduras,reconciled,HN005
+Pedro,2580.41,2025-04-17,Panam√°,reconciled,NI006
+Sof√≠a,3193.08,2025-04-20,Nicaragua,reconciled,MX002
+Eyner,3639.13,2025-04-05,Guatemala,reconciled,GT003
+Andrea,4967.21,2025-04-02,Guatemala,reconciled,HN005
+Pedro,3034.32,2025-04-28,El Salvador,reconciled,MX002
+Sof√≠a,4236.72,2025-04-26,Honduras,reconciled,CR009
+Eyner,3320.9,2025-04-19,El Salvador,reconciled,CR009
+Sof√≠a,2133.09,2025-04-28,Guatemala,reconciled,GT010
+Luc√≠a,2201.05,2025-04-16,M√©xico,unreconciled,PA007
+Mar√≠a,4414.47,2025-04-16,El Salvador,unreconciled,NI006
+Andrea,5108.21,2025-04-05,Nicaragua,reconciled,NI006
+Juan,2460.83,2025-04-11,El Salvador,reconciled,CR009
+Juan,5583.22,2025-04-14,M√©xico,reconciled,CR009
+Luis,2746.99,2025-04-04,Guatemala,reconciled,CR004
+Carlos,5834.12,2025-04-25,Guatemala,unreconciled,MX002
+Luis,5953.82,2025-05-01,Guatemala,reconciled,MX002
+Carlos,5976.58,2025-04-15,Panam√°,reconciled,MX008
+Sof√≠a,2141.94,2025-04-27,Costa Rica,unreconciled,NI006
+Sof√≠a,5157.92,2025-04-30,El Salvador,unreconciled,GT003
+Luc√≠a,4439.58,2025-04-17,Nicaragua,reconciled,CR004
+Andrea,2673.56,2025-04-05,Costa Rica,unreconciled,PA007
+Mar√≠a,5425.95,2025-04-28,Guatemala,unreconciled,CR009
+Fernanda,5352.15,2025-04-16,Costa Rica,reconciled,HN005
+Luis,3945.23,2025-04-17,Honduras,unreconciled,SV001
+Fernanda,3769.15,2025-04-21,Costa Rica,unreconciled,GT003
+Juan,5690.28,2025-04-25,Costa Rica,reconciled,GT010
+Carlos,2668.59,2025-04-13,Honduras,unreconciled,PA007
+Eyner,4259.75,2025-04-13,Nicaragua,unreconciled,MX002
+Andrea,5617.34,2025-04-21,Guatemala,reconciled,NI006
